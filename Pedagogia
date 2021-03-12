@@ -18,73 +18,53 @@ En instituciones de todos los niveles educativos, como docentes o en la administ
   ESTUDIOS</h1>
 
     <h2>PRIMER SEMESTRE</h2>
-    <p>Matemáticas I</p>
-    <p>Física</p>
-    <p>Programación estructurada</p>
-    <p>Matemáticas aplicadas a la computación</p>
-    <p>Diseño gráfico</p>
-    <p>Lectura y redacción.</p>
-    <p>Inglés I</p>
+    <p>Historia general de la educación</p>
+    <p>Epistemología</p>
+    <p>Problemas políticos, económicos y sociales de México</p>
+    <p>Sociología de la educación I</p>
+    <p>Teoría educativa</p>
+    <p>Laboratorio de cómputación aplicado a la docencia</p>
     
     <h2>SEGUNDO SEMESTRE</h2>
-    <p>Matemáticas II</p>
-    <p>Electricidad y magnetismo</p>
-    <p>Programación orientada a objetos</p>
-    <p>Desarrollo de proyectos multimedia</p>
-    <p>Metodología de la investigación</p>
-    <p>Inglés II</p>
+    <p>Historia de la educación en México</p>
+    <p>Filosofía de la educación</p>
+    <p>Sociología de la educación II</p>
+    <p>Teoría educativa II</p>
+    <p>Paradigmas de la investigación en las ciencias sociales</p>
+    <p>Administración educativa</p>
     
     <h2>TERCER SEMESTRE</h2>
-    <p>Matemáticas III</p>
-    <p>Probabilidad y estadística</p>
-    <p>Electrónica básica</p>
-    <p>Programación visual</p>
-    <p>Análisis y diseño de sistemas de información</p>
-    <p>Bases de datos</p>
-    <p>Inglés III</p>
+    <p>Métodos y técnicas de la investigación social I</p>
+    <p>Planeación educativa</p>
+    <p>Elementos teóricos de las corrientes psicológicas</p>
+    <p>Psicología del aprendizaje</p>
+    <p>Psicología evolutiva y diferencial I</p>
+    <p>Didáctica</p>
     
     <h2>CUARTO SEMESTRE</h2>
-    <p>Matemáticas IV</p>
-    <p>Sistemas digitales</p>
-    <p>Diseño asistido por computadora</p>
-    <p>Análisis y diseño orientado a objetos</p>
-    <p>Administración de bases de datos</p>
-    <p>Aplicaciones web I</p>
-    <p>Business English I</p>
+    <p>Métodos y técnicas de la investigación social III</p>
+    <p>Psicología evolutiva y diferencial II</p>
+    <p>Teoría de la orientación</p>
+    <p>Teoría Curricular</p>
+    <p>Estadística I</p>
+    <p>Administración de personal</p>
     
-    <h2>QUINTO SEMESTRE</h2>
-    <p>Arquitectura de computadoras</p>
-    <p>Sistemas operativos</p>
-    <p>Bases de datos distribuidas</p>
-    <p>Aplicaciones web II</p>
-    <p>Proceso administrativo</p>
-    <p>Fundamentos de contabilidad</p>
-    <p>Business English II</p>
+     <h2>QUINTO</h2>
+    <p>Trabajo en grupo</p>
+    <p>Proceso de orientación educativa</p>
+    <p>Diseño de proyectos didácticos</p>
+    <p>Metodología de la investigación en las ciencias sociales I</p>
+    <p>Estadística II</p>
+    <p>Supervisión de servicios educativos</p>
     
     <h2>SEXTO SEMESTRE</h2>
-    <p>Ingeniería económica</p>
-    <p>Teleproceso</p>
-    <p>Ingeniería de software</p>
-    <p>Administración de sistemas operativos</p>
-    <p>Inteligencia artificial</p>
-    <p>Taller de bases de datos</p>
-    <p>Business English III</p>
-    
-    <h2>SEPTIMO SEMESTRE</h2>
-    <p>Redes I</p>
-    <p>Administración de centros de cómputo</p>
-    <p>Tecnologías móviles</p>
-    <p>Tecnología robótica</p>
-    <p>Tecnologías de información</p>
-    <p>Emprendedores</p>
-    
-    <h2>OCTAVO SEMESTRE</h2>
-    <p>Redes II</p>
-    <p>Prácticas de la profesión</p>
-    <p>Auditoría informática</p>
-    <p>Cómputo en la nube</p>
-    <p>Seguridad informática</p>
-    <p>Seminario de tesis</p>
+    <p>Evaluación curricular</p>
+    <p>Metodología de la investigación en las ciencias sociales II</p>
+    <p>Práctica docente</p>
+    <p>Educación permanente</p>
+    <p>Prácticas de orientación educativa</p>
+    <p>Prácticas de administración educativa</p>
+
 
   </body>
 </html>
